@@ -1,5 +1,5 @@
 ---
-title: "Grand challenges of mitigating $\{O}_{3}$-related mortality in China by 2060"
+title: "Grand challenges of mitigating ${O}_{3}$-related mortality in China by 2060"
 collection: publications
 category: manuscripts
 permalink: /publication/paper-5
