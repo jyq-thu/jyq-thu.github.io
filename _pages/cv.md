@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Environmental Science & Engineering, Tsinghua University, 2023
   * Supervisor: [Prof. Shuxiao Wang](https://www.env.tsinghua.edu.cn/info/1264/7339.htm)
-* B.S. in Environmental Science & Engineering, Tsinghua University, 2018
+* B.S. in Environmental Engineering, Tsinghua University, 2018
 
 Work experience
 ======
