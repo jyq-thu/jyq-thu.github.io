@@ -49,3 +49,23 @@ body {
   background-color: rgba(255, 255, 255, 0.9) !important;
   background-blend-mode: overlay !important;
 }
+
+/* 让内容区域变半透明，露出背景图 */
+#main {
+  background: rgba(255, 255, 255, 0.85) !important; /* 0.85是透明度，可调 */
+  padding: 2em;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.05);
+}
+
+/* 侧边栏（你的头像和信息部分）同步透明 */
+.sidebar {
+  background: rgba(255, 255, 255, 0.7) !important;
+  border-radius: 10px;
+  padding: 15px;
+}
+
+/* 顶部导航栏同步透明 */
+.masthead {
+  background: rgba(255, 255, 255, 0.9) !important;
+}
