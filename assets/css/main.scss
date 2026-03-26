@@ -42,10 +42,15 @@
 
 /* 1. 强制让 body 背景可见 */
 html, body {
-  background-image: url("/images/academic-minimal-bg.png") !important;
-  background-color: #f0f2f5 !important;
-  background-attachment: fixed !important;
+  background-image: url("../images/academic-minimal-bg.png") !important;
   background-size: cover !important;
+  background-attachment: fixed !important;
+  background-repeat: no-repeat !important;
+  background-position: center center !important;
+  
+  /* 调整这里：使用偏蓝灰的暗色遮罩，让线条更明显 */
+  background-color: rgba(0, 0, 0, 0.05) !important; 
+  background-blend-mode: multiply !important;
 }
 
 /* 2. 穿透所有中间层级 */
@@ -53,7 +58,7 @@ html, body {
 .initial-content, 
 .page__inner,
 article.page {
-  background: rgba(255, 255, 255, 0.85) !important; /* 调整 0.85 来改变透明度 */
+  background: rgba(255, 255, 255, 0.70) !important; /* 调整 0.85 来改变透明度 */
   padding: 1.5em !important;
   border-radius: 12px !important;
 }
