@@ -40,3 +40,54 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+/* ============================================================
+   終極强力覆盖方案：解决深色背景被遮挡问题
+   ============================================================ */
+
+/* 1. 强制穿透所有层级的纯白背景，使其半透明 */
+#main,
+.page__inner,
+article.page,
+.archive,
+.entries-list,
+.pagination,
+.sidebar {
+  background-color: rgba(255, 255, 255, 0.9) !important; /* 调整 0.9 是透明度 */
+  padding: 2em !important;
+  border-radius: 12px !important;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) !important;
+  border: 1px solid rgba(255, 255, 255, 0.1) !important;
+}
+
+/* 2. 让侧边栏（你的个人资料）更加透明，露出更多背景 */
+.sidebar {
+  background-color: rgba(255, 255, 255, 0.75) !important;
+  padding: 1.5em !important;
+}
+
+/* 3. 移除主体部分的背景色遮挡 */
+.initial-content {
+  background: transparent !important;
+}
+
+/* 4. [可选但推荐] 调整 masthead (顶部导航栏) 的透明度 */
+.masthead {
+  background-color: rgba(255, 255, 255, 0.95) !important;
+  border-bottom: 1px solid rgba(0,0,0,0.05) !important;
+}
+
+/* ============================================================
+   (可选) 深度优化：如果你想要更纯粹的“深色模式”
+   如果上面的调整后文字看不清，可以尝试启用以下代码将文字改为深色，
+   并将内容背景调得更透明，让深色背景图完全透出来。
+   ============================================================ */
+/*
+#main, .page__inner, article.page, .sidebar {
+  background-color: rgba(20, 25, 30, 0.8) !important; /深色半透明背景/
+  color: #f0f0f0 !important; /浅色文字/
+}
+
+.page__title, .archive__item-title, .sidebar__user-name {
+  color: #fff !important;
+}
+*/
