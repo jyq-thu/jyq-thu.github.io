@@ -41,11 +41,11 @@
 @import "print";
 
 body {
-  background-image: url("../images/academic-minimal-bg.png");
-  background-size: cover;
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  background-position: center center; 
-  background-color: #f0f2f5;
-  background-blend-mode: overlay;
+  background-image: url("/images/academic-minimal-bg.png") !important;
+  background-size: cover !important;
+  background-attachment: fixed !important;
+  background-repeat: no-repeat !important;
+  background-position: center center !important;
+  background-color: rgba(255, 255, 255, 0.9) !important;
+  background-blend-mode: overlay !important;
 }
