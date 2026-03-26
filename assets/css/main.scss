@@ -43,7 +43,17 @@
 /* ============================================================
    終極强力覆盖方案：解决深色背景被遮挡问题
    ============================================================ */
-
+/* 为整个网页添加极简学术背景图 */
+body {
+  background-image: url("../images/academic-minimal-bg.jpg") !important; /* 图片路径，假设图片在/images/文件夹中 */
+  background-size: cover !important;                                 /* 自动铺满屏幕 */
+  background-attachment: fixed !important;                          /* 背景固定，不随滚动条滚动 */
+  background-repeat: no-repeat !important;                           /* 不重复 */
+  background-position: center center !important;                    /* 居中 */
+  /* 可选：为了确保文字易读，可以给整体添加一个极淡的白色遮罩 */
+  background-color: rgba(255, 255, 255, 0.9) !important;
+  background-blend-mode: overlay !important;
+}
 /* 1. 强制穿透所有层级的纯白背景，使其半透明 */
 #main,
 .page__inner,
