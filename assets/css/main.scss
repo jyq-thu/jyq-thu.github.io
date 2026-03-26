@@ -40,32 +40,34 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-body {
+/* 1. 强制让 body 背景可见 */
+html, body {
   background-image: url("/images/academic-minimal-bg.png") !important;
-  background-size: cover !important;
+  background-color: #f0f2f5 !important;
   background-attachment: fixed !important;
-  background-repeat: no-repeat !important;
-  background-position: center center !important;
-  background-color: rgba(255, 255, 255, 0.9) !important;
-  background-blend-mode: overlay !important;
+  background-size: cover !important;
 }
 
-/* 让内容区域变半透明，露出背景图 */
-#main {
-  background: rgba(255, 255, 255, 0.85) !important; /* 0.85是透明度，可调 */
-  padding: 2em;
-  border-radius: 10px;
-  box-shadow: 0 0 20px rgba(0,0,0,0.05);
+/* 2. 穿透所有中间层级 */
+#main, 
+.initial-content, 
+.page__inner,
+article.page {
+  background: rgba(255, 255, 255, 0.85) !important; /* 调整 0.85 来改变透明度 */
+  padding: 1.5em !important;
+  border-radius: 12px !important;
 }
 
-/* 侧边栏（你的头像和信息部分）同步透明 */
+/* 3. 侧边栏（你的个人资料卡片） */
 .sidebar {
   background: rgba(255, 255, 255, 0.7) !important;
-  border-radius: 10px;
-  padding: 15px;
+  border: 1px solid rgba(0,0,0,0.05) !important;
+  padding: 15px !important;
+  border-radius: 12px !important;
 }
 
-/* 顶部导航栏同步透明 */
+/* 4. 修复顶部导航栏遮挡 */
 .masthead {
   background: rgba(255, 255, 255, 0.9) !important;
+  border-bottom: 1px solid rgba(0,0,0,0.1) !important;
 }
