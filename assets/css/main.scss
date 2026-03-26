@@ -45,7 +45,7 @@
    ============================================================ */
 /* 为整个网页添加极简学术背景图 */
 body {
-  background-image: url("../images/academic-minimal-bg.jpg") !important; /* 图片路径，假设图片在/images/文件夹中 */
+  background-image: url("/images/academic-minimal-bg.png") !important; /* 图片路径，假设图片在/images/文件夹中 */
   background-size: cover !important;                                 /* 自动铺满屏幕 */
   background-attachment: fixed !important;                          /* 背景固定，不随滚动条滚动 */
   background-repeat: no-repeat !important;                           /* 不重复 */
