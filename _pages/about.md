@@ -14,4 +14,4 @@ I'm currently a postdoc scholar in Department of Meteorology and Atmospheric Sci
 News
 ======
 **March 18, 2026** 
-> A new paper entitled "Improving air quality simulations in California's San Joaquin Valley using land surface remote sensing" has been accepted in *JGR-Atmospheres*.
+> :tada: A new paper entitled "Improving air quality simulations in California's San Joaquin Valley using land surface remote sensing" has been accepted in *JGR-Atmospheres*.
