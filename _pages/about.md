@@ -11,4 +11,6 @@ I'm currently a postdoc scholar in Department of Meteorology and Atmospheric Sci
 
 [Email](jyq18@tsinghua.org.cn) / [Google Scholar](https://scholar.google.com/citations?user=RTwNXLQAAAAJ&hl=zh-CN)
 
-# News
+News
+======
+A new paper entitled "Improving air quality simulations in California's San Joaquin Valley using land surface remote sensing" has been accepted in JGR-Atmospheres.
