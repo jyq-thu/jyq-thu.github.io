@@ -16,7 +16,7 @@ My research focuses on:
 
 - Air quality modeling
 - Air pollution control
-- Remote-sensing-informed atmospheric simulation
+- Health impact assessment
 
 ## Quick Links
 
