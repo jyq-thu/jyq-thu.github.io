@@ -258,3 +258,15 @@
     }
   }
 }
+
+
+.author-profile-card {
+  padding: 0.8rem;
+  border-radius: $border-radius;
+}
+
+.author-profile-card--with-bg {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
