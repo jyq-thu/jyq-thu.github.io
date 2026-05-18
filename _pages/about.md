@@ -7,11 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a postdoc scholar in Department of Meteorology and Atmospheric Science, Penn State, co-supervised by [Prof. Kenneth J. Davis](https://www.met.psu.edu/directory/kenneth-j-davis) and [Prof. Wei Peng](https://www.weipengenergy.com/). I obtained my Ph.D. degree in 2023 and B.S. degreee in 2018 from [School of Environment](https://www.env.tsinghua.edu.cn/), Tsinghua University, advised by [Prof. Shuxiao Wang](https://www.env.tsinghua.edu.cn/info/1264/7339.htm). My research mainly focuses on air quality modeling and air pollution control.
+I am currently a **Postdoctoral Scholar** in the Department of Meteorology and Atmospheric Science at Penn State, co-supervised by [Prof. Kenneth J. Davis](https://www.met.psu.edu/directory/kenneth-j-davis) and [Prof. Wei Peng](https://www.weipengenergy.com/).
 
-[Email](jyq18@tsinghua.org.cn) / [Google Scholar](https://scholar.google.com/citations?user=RTwNXLQAAAAJ&hl=zh-CN)
+I received my **Ph.D. (2023)** and **B.S. (2018)** from the [School of Environment, Tsinghua University](https://www.env.tsinghua.edu.cn/), advised by [Prof. Shuxiao Wang](https://www.env.tsinghua.edu.cn/info/1264/7339.htm).
 
-News
-======
-**March 18, 2026** 
-> :tada: A new paper entitled "Improving air quality simulations in California's San Joaquin Valley using land surface remote sensing" has been accepted in *JGR-Atmospheres*.
+
+My research focuses on:
+
+- Air quality modeling
+- Air pollution control
+- Remote-sensing-informed atmospheric simulation
+
+## Quick Links
+
+- [Email](mailto:jyq18@tsinghua.org.cn)
+- [Google Scholar](https://scholar.google.com/citations?user=RTwNXLQAAAAJ&hl=zh-CN)
+
+## News
+
+- **March 18, 2026**: 🎉 A new paper, *"Improving air quality simulations in California's San Joaquin Valley using land surface remote sensing"*, was accepted by *JGR-Atmospheres*.
