@@ -18,11 +18,6 @@ My research focuses on:
 - Air pollution control
 - Health impact assessment
 
-## Quick Links
-
-- [Email](mailto:jyq18@tsinghua.org.cn)
-- [Google Scholar](https://scholar.google.com/citations?user=RTwNXLQAAAAJ&hl=zh-CN)
-
 ## News
 
 - **March 18, 2026**: 🎉 A new paper, *"Improving air quality simulations in California's San Joaquin Valley using land surface remote sensing"*, was accepted by *JGR-Atmospheres*.
