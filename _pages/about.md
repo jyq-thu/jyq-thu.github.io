@@ -2,10 +2,6 @@
 permalink: /
 title: "About me"
 author_profile: true
-header:
-  overlay_image: /images/academic-minimal-bg.png
-  overlay_filter: 0.35
-  caption: "Photo credit: Yueqi Jiang"
 redirect_from: 
   - /about/
   - /about.html
