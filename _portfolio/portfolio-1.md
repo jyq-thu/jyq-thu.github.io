@@ -1,5 +1,5 @@
 ---
-title: "Presentation in ACID RAIN 2020"
-excerpt: "<img src='/images/会议照片1.jpg'>"
+title: "Presentation at ACID RAIN 2020"
+excerpt: "Presentation photo from ACID RAIN 2020."
 collection: portfolio
 ---

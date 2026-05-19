@@ -10,8 +10,7 @@ redirect_from:
 
 I am currently a **Postdoctoral Scholar** in the Department of Meteorology and Atmospheric Science at Penn State, co-supervised by [Prof. Kenneth J. Davis](https://www.met.psu.edu/directory/kenneth-j-davis) and [Prof. Wei Peng](https://www.weipengenergy.com/).
 
-I received my **Ph.D. (2023)** and **B.Eng. (2018)** from the [School of Environment, Tsinghua University](https://www.env.tsinghua.edu.cn/), advised by [Prof. Shuxiao Wang](https://www.env.tsinghua.edu.cn/info/1264/7339.htm).
-
+I received my **Ph.D. (2023)** and **B.S. (2018)** from the [School of Environment, Tsinghua University](https://www.env.tsinghua.edu.cn/), advised by [Prof. Shuxiao Wang](https://www.env.tsinghua.edu.cn/info/1264/7339.htm).
 
 My research focuses on:
 
