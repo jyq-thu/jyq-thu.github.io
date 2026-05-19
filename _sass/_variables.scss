@@ -44,12 +44,12 @@ $type-size-8                : 0.625em;  // ~10px
 
 /* masthead properties */
 $masthead-height            : 70px;
-$masthead-background-color  : #fff5ee;
+$masthead-background-color  : #fff;
 
 /* Sidebar properties */
 $sidebar-screen-min-width   : 1024px;
 $sidebar-link-max-width     : 250px;
-$sidebar-color              : #fff5ee;
+$sidebar-color              : #fff;
 
 
 
@@ -63,8 +63,8 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #000000;
-$background-color           : #fff;
+$body-color                 : #fff;
+$background-color           : #e6e6fa;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
