@@ -16,14 +16,7 @@ My research focuses on:
 
 - Air quality modeling
 - Air pollution control
-- Remote-sensing-informed atmospheric simulation
-
-## Quick Links
-
-- [Email](mailto:jyq18@tsinghua.org.cn)
-- [Google Scholar](https://scholar.google.com/citations?user=RTwNXLQAAAAJ&hl=zh-CN)
-- [Publications](/publications/)
-- [CV](/cv/)
+- Health impact assessment
 
 ## News
 
