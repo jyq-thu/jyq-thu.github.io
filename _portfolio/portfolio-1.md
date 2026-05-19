@@ -1,7 +1,9 @@
 ---
-title: "Presentation in ACID RAIN 2020"
-excerpt: "<img src='/images/会议照片1.jpg'>"
+title: "Presentation at ACID RAIN 2020"
+excerpt: "Presentation photo from ACID RAIN 2020."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+![Presentation at ACID RAIN 2020](/images/会议照片1.jpg){: .align-center }
+
+I presented our work on air quality modeling and emission-control policy analysis at **ACID RAIN 2020**. The presentation focused on model performance, uncertainty sources, and implications for regional pollution mitigation.
