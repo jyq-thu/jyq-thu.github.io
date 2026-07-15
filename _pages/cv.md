@@ -17,8 +17,11 @@ Education
 
 Work experience
 ======
-* Since Jan, 2024: Postdoc Scholar
-  * Penn State University
+* Since July, 2026: Postdoc Scholar
+  * The University of Southern California
+  * Supervisor: [Prof. Jiachen Zhang](https://sites.usc.edu/jzhang/)
+* Jan, 2024 to June, 2026: Postdoc Scholar
+  * The Pennsylvania State University
   * Supervisor: [Prof. Kenneth J. Davis](https://www.met.psu.edu/directory/kenneth-j-davis) and [Prof. Wei Peng](https://www.weipengenergy.com/)
 
 Publications
