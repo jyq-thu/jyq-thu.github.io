@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a **Postdoctoral Scholar** in the Department of Meteorology and Atmospheric Science at Penn State, co-supervised by [Prof. Kenneth J. Davis](https://www.met.psu.edu/directory/kenneth-j-davis) and [Prof. Wei Peng](https://www.weipengenergy.com/).
+I am currently a **Postdoctoral Scholar** in the USC Sonny Astani Department of Civil and Environmental Engineering, advised by [Prof. Jiachen Zhang](https://sites.usc.edu/jzhang/). Prior to joining USC, I was a postdoctoral scholar in the Department of Meteorology and Atmospheric Science at Penn State, co-supervised by [Prof. Kenneth J. Davis](https://www.met.psu.edu/directory/kenneth-j-davis) and [Prof. Wei Peng](https://www.weipengenergy.com/).
 
 I received my **Ph.D. (2023)** and **B.Eng. (2018)** from the [School of Environment, Tsinghua University](https://www.env.tsinghua.edu.cn/), advised by [Prof. Shuxiao Wang](https://www.env.tsinghua.edu.cn/info/1264/7339.htm).
 
