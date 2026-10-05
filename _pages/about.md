@@ -18,5 +18,5 @@ My research focuses on:
 - Health impact assessment
 
 ## News
-
+- **Upcoming, December 7—11, 2026**: I’ll be at [AGU 2026](https://www.agu.org/annual-meeting). See you there!
 - **March 18, 2026**: 🎉 A new paper, *"Improving air quality simulations in California's San Joaquin Valley using land surface remote sensing"*, was accepted by *JGR-Atmospheres*.
